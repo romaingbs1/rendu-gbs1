@@ -1,0 +1,12 @@
+.containeur{
+    display: flex;
+    align-items: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 2%;
+    margin-bottom: 4%;
+}
+.z{
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
